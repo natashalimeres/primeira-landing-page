@@ -5,4 +5,3 @@
 
 - HTML
 - CSS
-- GIT e GITHUB
